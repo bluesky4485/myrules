@@ -1,0 +1,22 @@
+payload:
+  - DOMAIN-KEYWORD,github
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,github.io
+  - DOMAIN-SUFFIX,githubapp.com
+  - DOMAIN-SUFFIX,githubassets.com
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,gitlab.com
+  - DOMAIN-SUFFIX,gitlab.io
+  - DOMAIN-SUFFIX,stackoverflow.com
+  - DOMAIN-SUFFIX,medium.com
+  - DOMAIN-SUFFIX,sourcegraph.com
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,docker.io
+  - DOMAIN-SUFFIX,gcr.io
+  - DOMAIN-SUFFIX,quay.io
+  - DOMAIN-SUFFIX,maven.org
+  - DOMAIN-SUFFIX,mvnrepository.com
+  - DOMAIN-SUFFIX,apache.org
+  - DOMAIN-SUFFIX,spring.io
+  - DOMAIN-SUFFIX,elastic.co
+  - DOMAIN-SUFFIX,redhat.com

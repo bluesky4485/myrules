@@ -1,0 +1,75 @@
+rule-providers:
+  AI:
+    type: file
+    behavior: classical
+    path: ./myrule/AI.yaml
+  AI_Dependencies:
+    type: file
+    behavior: classical
+    path: ./myrule/AI_Dependencies.yaml
+  Google:
+    type: file
+    behavior: classical
+    path: ./myrule/Google.yaml
+  Developer:
+    type: file
+    behavior: classical
+    path: ./myrule/Developer.yaml
+  JetBrains:
+    type: file
+    behavior: classical
+    path: ./myrule/JetBrains.yaml
+  Microsoft:
+    type: file
+    behavior: classical
+    path: ./myrule/Microsoft.yaml
+  Apple:
+    type: file
+    behavior: classical
+    path: ./myrule/Apple.yaml
+  Social:
+    type: file
+    behavior: classical
+    path: ./myrule/Social.yaml
+  Twitter:
+    type: file
+    behavior: classical
+    path: ./myrule/Twitter.yaml
+  Media:
+    type: file
+    behavior: classical
+    path: ./myrule/Media.yaml
+  Scholar:
+    type: file
+    behavior: classical
+    path: ./myrule/Scholar.yaml
+  Wikipedia:
+    type: file
+    behavior: classical
+    path: ./myrule/Wikipedia.yaml
+  Community:
+    type: file
+    behavior: classical
+    path: ./myrule/Community.yaml
+  Porn:
+    type: file
+    behavior: classical
+    path: ./myrule/Porn.yaml
+
+rules:
+  - RULE-SET,AI,🤖 AI服务
+  - RULE-SET,AI_Dependencies,🤖 AI服务
+  - RULE-SET,Google,🔍 Google
+  - RULE-SET,Developer,👨‍💻 开发者
+  - RULE-SET,JetBrains,👨‍💻 开发者
+  - RULE-SET,Microsoft,🪟 Microsoft
+  - RULE-SET,Apple,🍎 Apple
+  - RULE-SET,Social,💬 社交通讯
+  - RULE-SET,Twitter,🐦 Twitter/X
+  - RULE-SET,Media,🎬 流媒体
+  - RULE-SET,Scholar,📚 学术研究
+  - RULE-SET,Wikipedia,📖 维基百科
+  - RULE-SET,Community,🌐 社区
+  - RULE-SET,Porn,🔞 Adult
+  - GEOIP,CN,🇨🇳 国内直连
+  - MATCH,🐟 漏网之鱼
