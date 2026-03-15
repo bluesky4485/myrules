@@ -20,3 +20,4 @@ payload:
   - DOMAIN-SUFFIX,spring.io
   - DOMAIN-SUFFIX,elastic.co
   - DOMAIN-SUFFIX,redhat.com
+  - DOMAIN-SUFFIX,brave.com
