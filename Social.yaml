@@ -25,6 +25,8 @@ payload:
   - DOMAIN-SUFFIX,telesco.pe
   - DOMAIN-SUFFIX,whatsapp.com
   - DOMAIN-SUFFIX,whatsapp.net
+  - DOMAIN-SUFFIX,matrix.org
+  - DOMAIN-SUFFIX,hackmd.io
   - IP-CIDR,18.194.0.0/15,no-resolve
   - IP-CIDR,31.13.24.0/21,no-resolve
   - IP-CIDR,31.13.64.0/18,no-resolve
