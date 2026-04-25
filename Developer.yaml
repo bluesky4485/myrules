@@ -21,3 +21,4 @@ payload:
   - DOMAIN-SUFFIX,elastic.co
   - DOMAIN-SUFFIX,redhat.com
   - DOMAIN-SUFFIX,brave.com
+  - DOMAIN-SUFFIX,go.dev
